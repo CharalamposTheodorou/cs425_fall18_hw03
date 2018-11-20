@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+  <easy>
+  <question qId="1">
+    <name>Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop ____________. Fill in the blank to complete this quotation by Albert Einstein.</name>
+    <option1>Wishing</option1>
+    <option2>Questioning</option2>
+    <option3>Thinking</option3>
+    <answer>Questioning</answer>
+   </question>
+  <question qId="2">
+    <name>The name of which spice comes from the French word for "nail"?</name>
+    <option1>Cinnamon</option1>
+    <option2>Cardamom</option2>
+    <option3>Clove</option3>
+    <answer>Clove</answer>
+   </question>
+  <question qId="3">
+    <name> In India, the train Lifeline Express is a..</name>
+    <option1>Hospital</option1>
+    <option2>Bank</option2>
+    <option3>Primary School</option3>
+    <answer>Hospital</answer>
+   </question>
+  <question qId="4">
+    <name>Which Asian mountain is also known as the Savage Mountain due to the extreme difficulty of ascent?</name>
+    <option1>Kanchenjunga</option1>
+    <option2>K2</option2>
+    <option3>Lhotse</option3>
+    <answer>K2</answer>
+   </question>
+  <question qId="5">
+    <name>In 1964, which portfolio was given to Indira Gandhi in the government of Lal Bahadur Shastri?</name>
+    <option1>Defence</option1>
+    <option2>Home </option2>
+    <option3>Information and Broadcasting</option3>
+    <answer>Information and Broadcasting</answer>
+   </question>
+  <question qId="6">
+    <name>In Alice's Adventures in Wonderland, which game was played by the Queen of Hearts using hedgehogs as balls?</name>
+    <option1>Quintet</option1>
+    <option2>Quidditch</option2>
+    <option3>Croquet</option3>
+    <answer>Croquet</answer>
+   </question>
+  <question qId="7">
+    <name>With which unfortunate incident would you associate the warplane Enola Gay?</name>
+    <option1>Sinking of the ship Bismark</option1>
+    <option2>The Hiroshima bombing</option2>
+    <option3>Storming of Bastille</option3>
+    <answer>The Hiroshima bombing</answer>
+   </question>
+  <question qId="8">
+    <name>Odhra Magadha is the precursor to which Indian dance form?</name>
+    <option1>Kuchipudi</option1>
+    <option2>Kathak </option2>
+    <option3>Odissi</option3>
+    <answer>Odissi</answer>
+   </question>
+  <question qId="9">
+    <name>Who composed music for the 1969 film Goopy Gyne Bagha Byne?</name>
+    <option1>Satyajit Ray</option1>
+    <option2>Ravi Shankar</option2>
+    <option3>Shiv-Hari</option3>
+    <answer> Satyajit Ray</answer>
+   </question>
+  <question qId="10">
+    <name>Where in the human body is the stapedius muscle situated?</name>
+    <option1>Nose </option1>
+    <option2>Ears</option2>
+    <option3>Leg</option3>
+    <answer>Ears</answer>
+   </question>
+  <question qId="11">
+    <name>Apart from Venus, which planet rotates from east to west?</name>
+    <option1>Jupiter</option1>
+    <option2>Mars </option2>
+    <option3>Uranus</option3>
+    <answer>Uranus</answer>
+   </question>
+  <question qId="12">
+    <name>Which country was Herodotus referring to when he said: "There is no country that possesses so many wonders, nor any, that such a number of works that defy description"?</name>
+    <option1>China </option1>
+    <option2>Germany </option2>
+    <option3>Egypt</option3>
+    <answer>Egypt</answer>
+   </question>
+  <question qId="13">
+    <name>Which famous world leader was accused at the Rivonia Trial?</name>
+    <option1>Martin Luther King</option1>
+    <option2>Subhas Chandra Bose</option2>
+    <option3>Nelson Mandela</option3>
+    <answer>Nelson Mandela</answer>
+   </question>
+  <question qId="14">
+    <name>In Hindu mythology, who has a mansion named Vaijayanta and a sword named Paranjaya?</name>
+    <option1>Vishnu </option1>
+    <option2>Shiva </option2>
+    <option3>Indra</option3>
+    <answer>Indra</answer>
+   </question>
+  <question qId="15">
+    <name>What is parasol a kind of?</name>
+    <option1>Umbrella </option1>
+    <option2>Footwear </option2>
+    <option3>Bracelet</option3>
+    <answer>Umbrella</answer>
+   </question>
+  <question qId="16">
+    <name>What was the pen name of William Sydney Porter?</name>
+    <option1>Mark Twain</option1>
+    <option2>Oscar Wilde </option2>
+    <option3>Oscar Henry</option3>
+    <answer>Oscar Henry</answer>
+   </question>
+  <question qId="17">
+    <name>Which spice consists of the seed of the Myristica fragrans, a tropical evergreen tree?</name>
+    <option1>Cardamom</option1>
+    <option2>Clove </option2>
+    <option3>Nutmeg</option3>
+    <answer>Nutmeg</answer>
+   </question>
+  <question qId="18">
+    <name>Which leader wrote the Srimad Bhagavad Gita Rahasya while he was jailed in Myanmar?</name>
+    <option1>Bal Gangadhar Tilak</option1>
+    <option2>Motilal Nehru</option2>
+    <option3>Gopal Krishna Gokhale</option3>
+    <answer>Bal Gangadhar Tilak</answer>
+   </question>
+  <question qId="19">
+    <name>Who was born in Gwalior in 1945 to Haafiz Ali Khan?</name>
+    <option1>Amjad Ali Khan</option1>
+    <option2>Bismillah Khan</option2>
+    <option3>Ali Akbar Khan</option3>
+    <answer>Amjad Ali Khan</answer>
+   </question>
+  <question qId="20">
+    <name>Which is the largest internal organ in the human body?</name>
+    <option1>Liver </option1>
+    <option2>Heart </option2>
+    <option3>Lung</option3>
+    <answer>Liver </answer>
+   </question>
+  <question qId="21">
+    <name>After whom is the chemical element with atomic number 102 named?</name>
+    <option1>Albert Einstein</option1>
+    <option2>Alfred Bernhard Nobel</option2>
+    <option3>Isaac Newton</option3>
+    <answer>Alfred Bernhard Nobel</answer>
+   </question>
+  <question qId="22">
+    <name>In the Mahabharata, who was granted a divine inward eye so that he could see and relate the events of the battlefield to Dhritarashtra?</name>
+    <option1>Sanjaya</option1>
+    <option2>Purochana</option2>
+    <option3>Shikhandi</option3>
+    <answer>Sanjaya</answer>
+   </question>
+  <question qId="23">
+    <name>The capital of which Scandinavian country is located on the islands of Zealand and Amager?</name>
+    <option1>Norway</option1>
+    <option2>Sweden</option2>
+    <option3>Denmark</option3>
+    <answer>Denmark</answer>
+   </question>
+  <question qId="24">
+    <name>Complete this Sunderlal Bahuguna phrase which he coined during the Chipko Movement: 'Ecology is permanent _____.'</name>
+    <option1>Economy</option1>
+    <option2>Sociology </option2>
+    <option3>Biology</option3>
+    <answer>Economy</answer>
+   </question>
+  <question qId="25">
+    <name>By what name is K'ung Fu-tzu better known to the Western world?</name>
+    <option1>Confucius </option1>
+    <option2>Lao Tzu</option2>
+    <option3>Fa-Hien</option3>
+    <answer>Confucius </answer>
+   </question>
+   </easy>
+   <medium>
+  <question qId="26">
+    <name>Which spice was introduced to India around 1800 CE by the East India Company in its spice garden in Courtallam, Tamil Nadu?</name>
+    <option1>Clove </option1>
+    <option2>Pepper </option2>
+    <option3>Cardamom</option3>
+    <answer>Clove </answer>
+   </question>
+  <question qId="27">
+    <name>In Twenty Thousand Leagues Under the Sea, what was the name of the warship in which Captain Nemo sailed?</name>
+    <option1>Basillus </option1>
+    <option2>Nautilus </option2>
+    <option3>Remolus</option3>
+    <answer>Nautilus </answer>
+   </question>
+  <question qId="28">
+    <name>Bidriware derives its name from the town of Bidar. In which state is Bidar located?</name>
+    <option1>Karnataka </option1>
+    <option2>Kerala </option2>
+    <option3>Gujarat</option3>
+    <answer>Karnataka </answer>
+   </question>
+  <question qId="29">
+    <name>In India, who heads the Department of Space?</name>
+    <option1>The president</option1>
+    <option2>The prime minister</option2>
+    <option3>The defence minister</option3>
+    <answer>The prime minister</answer>
+   </question>
+  <question qId="30">
+    <name>Which actor won the National Award in the Best Actor category for Dastak in 1971 and Koshish in 1973?</name>
+    <option1>Dev Anand</option1>
+    <option2>Sanjeev Kumar</option2>
+    <option3>Dilip Kumar</option3>
+    <answer>Sanjeev Kumar</answer>
+   </question>
+  <question qId="31">
+    <name>Which famous philosopher was also the tutor of Alexander the Great?</name>
+    <option1>Aristotle </option1>
+    <option2>Socrates </option2>
+    <option3>Rousseau</option3>
+    <answer>Aristotle </answer>
+   </question>
+  <question qId="32">
+    <name>What was defined as 'three grains of barley, dry and round, placed end to end lengthwise'?</name>
+    <option1>Centimetre </option1>
+    <option2>Millimetre </option2>
+    <option3>Inch</option3>
+    <answer>Inch</answer>
+   </question>
+  <question qId="33">
+    <name>The name of which of these means the 'gilded one' in Spanish?</name>
+    <option1>El Dorado</option1>
+    <option2>Buenos Aires</option2>
+    <option3>El Nino</option3>
+    <answer>El Dorado</answer>
+   </question>
+  <question qId="34">
+    <name>Who was the prime minister of the United Kingdom at the time of Queen Elizabeth II's coronation?</name>
+    <option1>Neville Chamberlain</option1>
+    <option2>Winston Churchill</option2>
+    <option3>Harold McMillan</option3>
+    <answer>Winston Churchill</answer>
+   </question>
+  <question qId="35">
+    <name>Tomato, sweet corn, oxtail, bird's nest, chimney and French onion are all ...</name>
+    <option1>Types of soup</option1>
+    <option2>Breeds of cats</option2>
+    <option3>Sporting events</option3>
+    <answer>Types of soup</answer>
+   </question>
+  <question qId="36">
+    <name>Which work is often referred to as the fifth veda?</name>
+    <option1>Panchtantra </option1>
+    <option2>Natyashastra</option2>
+    <option3>Arthshastra</option3>
+    <answer>Natyashastra</answer>
+   </question>
+  <question qId="37">
+    <name>Which of these elements is not named after a scientist?</name>
+    <option1>Einsteinium </option1>
+    <option2>Ruthenium </option2>
+    <option3>Curium</option3>
+    <answer>Ruthenium </answer>
+   </question>
+  <question qId="38">
+    <name>In which present-day country was the Battle of Waterloo fought?</name>
+    <option1>France </option1>
+    <option2>Iran </option2>
+    <option3>Belgium</option3>
+    <answer>Belgium</answer>
+   </question>
+  <question qId="39">
+    <name>Which country's highest peak is Mount Ararat?</name>
+    <option1>China </option1>
+    <option2>Turkey</option2>
+    <option3>Iran</option3>
+    <answer>Turkey</answer>
+   </question>
+  <question qId="40">
+    <name>What do you call a system of serving when a meal, consisting of several dishes is set out and guests serve themselves?</name>
+    <option1>Buffet </option1>
+    <option2>A la carte</option2>
+    <option3>Menu</option3>
+    <answer>Buffet</answer>
+   </question>
+  <question qId="41">
+    <name>With which artist would you associate The Thinker, a statue cast in bronze?</name>
+    <option1>Auguste Rodin</option1>
+    <option2>Michelangelo</option2>
+    <option3>Leonardo da Vinci</option3>
+    <answer>Auguste Rodin</answer>
+   </question>
+  <question qId="42">
+    <name>Kisan Ghat in Delhi is the memorial ground of which famous leader?</name>
+    <option1>Charan Singh</option1>
+    <option2>Rajiv Gandhi</option2>
+    <option3>Jagjivan Ram</option3>
+    <answer>Charan Singh</answer>
+   </question>
+  <question qId="43">
+    <name>With which artist would you associate The Thinker, a statue cast in bronze?</name>
+    <option1>Auguste Rodin</option1>
+    <option2>Michelangelo</option2>
+    <option3>Leonardo da Vinci</option3>
+    <answer>Auguste Rodin</answer>
+   </question>
+  <question qId="44">
+    <name>Edward Lear was famous for his five-line humorous poems. What is the correct term for this style of poetry?</name>
+    <option1>Elegy </option1>
+    <option2>Sonnet</option2>
+    <option3>Limerick</option3>
+    <answer>Limerick</answer>
+   </question>
+  <question qId="45">
+    <name>Which character did actor Leonard Nimoy portray in Star Trek V: The Final Frontier?</name>
+    <option1>Spock</option1>
+    <option2>Kirk</option2>
+    <option3>McCoy</option3>
+    <answer>Spock</answer>
+   </question>
+  <question qId="46">
+    <name>Collectively, how many moons do the planets Mercury and Venus have?</name>
+    <option1>One</option1>
+    <option2>None</option2>
+    <option3>Fifty-fie</option3>
+    <answer>None</answer>
+   </question>
+  <question qId="47">
+    <name>The Chinese pilgrim Fa-hien visited Kannauj between 399 and 414 A.D. during the reign of…</name>
+    <option1>Chandragupta II</option1>
+    <option2>Ashoka</option2>
+    <option3>Kanishka</option3>
+    <answer>Chandragupta II</answer>
+   </question>
+  <question qId="48">
+    <name>Which deity is credited with teaching Ayurveda to Sushruta?</name>
+    <option1>Vishwakarma</option1>
+    <option2>Dhanwantari</option2>
+    <option3>Charaka</option3>
+    <answer>Dhanwantari</answer>
+   </question>
+  <question qId="49">
+    <name>In which device might you come across a trackball?</name>
+    <option1>TV camera</option1>
+    <option2>Computer</option2>
+    <option3>Watch</option3>
+    <answer>Computer</answer>
+   </question>
+  <question qId="50">
+    <name>With which artist would you associate The Thinker, a statue cast in bronze?</name>
+    <option1>Auguste Rodin</option1>
+    <option2>Michelangelo</option2>
+    <option3>Leonardo da Vinci</option3>
+    <answer>Auguste Rodin</answer>
+   </question>
+   </medium>
+   <hard>
+  <question qId="51">
+    <name>What island did Peter Minuit acquire for sixty guilders from the Native Americans?</name>
+    <option1>Manhattan Island</option1>
+    <option2>Christmas Island</option2>
+    <option3>Galapagos Island</option3>
+    <answer>Manhattan Island</answer>
+   </question>
+  <question qId="52">
+    <name>Which of these herbs, used extensively in Indian cuisine, is referred to as dhania in Hindi?</name>
+    <option1>Coriander</option1>
+    <option2>Fenugreek</option2>
+    <option3>Asafoetida</option3>
+    <answer>Coriander</answer>
+   </question>
+  <question qId="53">
+    <name>Sir Winston Churchill visited which country during its years under British rule and called it ‘the pearl of Africa’?</name>
+    <option1>Auguste Rodin</option1>
+    <option2>Michelangelo</option2>
+    <option3>Leonardo da Vinci</option3>
+    <answer>Auguste Rodin</answer>
+   </question>
+  <question qId="54">
+    <name>Jatra is a traditional theatre form of which state of India?</name>
+    <option1>Andhra Pradesh</option1>
+    <option2>West Bengal</option2>
+    <option3>Maharashtra</option3>
+    <answer>West Bengal</answer>
+   </question>
+  <question qId="55">
+    <name>Abraham Ortelius’s book, Theatrum Orbis Terrarum, which means ‘Theatre of the World’, is generally believed to be the first modern example of what?</name>
+    <option1>Atlas</option1>
+    <option2>Dictionary</option2>
+    <option3>Encyclopedia</option3>
+    <answer>Atlas</answer>
+   </question>
+  <question qId="56">
+    <name>Which of these Raj Kapoor starrers was also released as The Vagabond?</name>
+    <option1>Barsaat</option1>
+    <option2>Awara</option2>
+    <option3>Shri 420</option3>
+    <answer>Awara</answer>
+   </question>
+  <question qId="57">
+    <name>Which is the only giant planet whose equator is nearly at right angles to its orbit?</name>
+    <option1>Mars</option1>
+    <option2>Jupiter</option2>
+    <option3>Uranus</option3>
+    <answer>Uranus</answer>
+   </question>
+  <question qId="58">
+    <name>The archeological remains of which institution is found in the vicinity of a village called ‘Bara Gaon’ in the eastern part of India?</name>
+    <option1>Nalanda University</option1>
+    <option2>Taxila University</option2>
+    <option3>Ujjain Sun Temple</option3>
+    <answer>Nalanda University</answer>
+   </question>
+  <question qId="59">
+    <name>In the Mahabharata, which grandson of Pandu died in warfare when he was trapped in a ‘Chakravyuha’?</name>
+    <option1>Abhimanyu</option1>
+    <option2>Prativindhya</option2>
+    <option3>Yaudheya</option3>
+    <answer>Abhimanyu</answer>
+   </question>
+  <question qId="60">
+    <name>In Buddhism, what among these does the ‘swastika’ signify?</name>
+    <option1>Buddha’s feet or footprints</option1>
+    <option2>Teachings of Buddha</option2>
+    <option3>Signature of Buddha</option3>
+    <answer>Buddha’s feet or footprints</answer>
+   </question>
+  <question qId="61">
+    <name>Which style of cooking shares its name with the second largest province of China?</name>
+    <option1>Hunan</option1>
+    <option2>Szechwan</option2>
+    <option3>Shandong</option3>
+    <answer>Szechwan</answer>
+   </question>
+  <question qId="62">
+    <name>Sri Jayawardenepura Kotte is the legislative and judicial capital of which country?</name>
+    <option1>Maldives</option1>
+    <option2>Sri Lanka</option2>
+    <option3>Seychelles</option3>
+    <answer>Sri Lanka</answer>
+   </question>
+  <question qId="63">
+    <name>Shakti Sthal is the samadhi of which prime minister of India?</name>
+    <option1>Jawaharlal Nehru</option1>
+    <option2>Charan Singh</option2>
+    <option3>Indira Gandhi</option3>
+    <answer>Indira Gandhi</answer>
+   </question>
+  <question qId="64">
+    <name>‘Yakshagana’ is a traditional theatre form of which Indian state?</name>
+    <option1>Maharashtra</option1>
+    <option2>Andhra Pradesh</option2>
+    <option3>Karnataka</option3>
+    <answer>Karnataka</answer>
+   </question>
+  <question qId="65">
+    <name>Which famous author’s original name was Charles Lutwidge Dodgson?</name>
+    <option1>Enid Blyton</option1>
+    <option2>Lewis Carroll</option2>
+    <option3>Charles Dickens</option3>
+    <answer>Lewis Carroll</answer>
+   </question>
+  <question qId="66">
+    <name>In which film has Michelle McNally’s story been memorably told?</name>
+    <option1>Black</option1>
+    <option2>Family</option2>
+    <option3>Hum Tum</option3>
+    <answer>Black</answer>
+   </question>
+  <question qId="67">
+    <name>Fill in the blank: the wheel and axle, the lever, the ramp, the screw and the pulley are all_______ machines.</name>
+    <option1>Simple</option1>
+    <option2>Turbine</option2>
+    <option3>Mechanical components</option3>
+    <answer>Simple</answer>
+   </question>
+  <question qId="68">
+    <name>According to Hindu mythology, which snake killed Parikshit?</name>
+    <option1>Kaliya </option1>
+    <option2>Takshak </option2>
+    <option3>Ananta</option3>
+    <answer>Takshak </answer>
+   </question>
+  <question qId="69">
+    <name>In which city can you find the mausoleum of Arjumand Bano Begum?</name>
+    <option1>Delhi</option1>
+    <option2>Agra</option2>
+    <option3>Aurangabad</option3>
+    <answer>Agra</answer>
+   </question>
+  <question qId="70">
+    <name>What is described in the Oxford English Dictionary as ‘an Indian sweet made from a mixture of flour, sugar, and shortening, which is shaped into a ball’?</name>
+    <option1>Rasgulla</option1>
+    <option2>Laddu</option2>
+    <option3>Balushahi</option3>
+    <answer>Laddu</answer>
+   </question>
+  <question qId="71">
+    <name>The name of which city comes from two words meaning ‘market for areca nut’ in the local language?</name>
+    <option1>Guwahati</option1>
+    <option2>Kohima</option2>
+    <option3>Itanagar</option3>
+    <answer>Guwahati</answer>
+   </question>
+  <question qId="72">
+    <name>In geometry, which figure gets its name from the Greek word for ‘table’?</name>
+    <option1>Rhombus</option1>
+    <option2>Square</option2>
+    <option3>Trapezeum</option3>
+    <answer>Trapezeum</answer>
+   </question>
+  <question qId="73">
+    <name>With which artist would you associate The Thinker, a statue cast in bronze?</name>
+    <option1>Auguste Rodin</option1>
+    <option2>Michelangelo</option2>
+    <option3>Leonardo da Vinci</option3>
+    <answer>Auguste Rodin</answer>
+   </question>
+  <question qId="74">
+    <name>Who wrote the science fiction classic Rendezvous with Rama?</name>
+    <option1>Arthur C. Clarke</option1>
+    <option2>Ray Bradbury</option2>
+    <option3>H.G. Wells</option3>
+    <answer>Arthur C. Clarke</answer>
+   </question>
+  <question qId="75">
+    <name>The life of which deity makes up the most common theme of Pahadi paintings?</name>
+    <option1>Buddha</option1>
+    <option2>Narada</option2>
+    <option3>Krishna</option3>
+    <answer>Krishna</answer>
+   </question>
+   </hard>
+ </questions>
+   
+ 
