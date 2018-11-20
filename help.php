@@ -19,12 +19,17 @@
     <link rel="stylesheet" type="text/css" href="Index.css">
     <link rel="stylesheet" type="text/css" href="Common.css">
   <div class="container">
-    <h1>Instructions of the Game:</h1>
-  </div>
-  
+    <div class="content">
+      <h2>Instructions of the Game:</h2>
       <li>Answer all the questions</li>
       <li>Go for the high score</li>
+      <li>Save your Score</li>
       <li>You are done bro</li>
+      <li>Repeat until you are bored</li>
+     </div>
+  </div>
+  
+      
     <button  onclick="topFunction()" class="Topbutton" > ^ </button>
     <script>
     window.onscroll = function(){Bar()};

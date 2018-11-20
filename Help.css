@@ -3,7 +3,13 @@ body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 .mySlides2{display:none;}
 img {vertical-align: middle;}
-
+.content
+{
+  margin-left:300px;
+  margin-right:300px;
+  horizontal-align:left;
+  font-size:300px;
+}
 
 .img-circle{
   width:500px;

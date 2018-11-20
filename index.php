@@ -81,10 +81,12 @@
         
         if(isset($_POST['save']))
         {
-          $username;//=$_POST['username'];
-          $file=fopen("highscores.txt","a");
-          $score=$_POST['score']."\n";
-          echo "saving....";
+          $f ='highscores.txt';
+          $username =$_POST['username']." ";
+          $file = fopen($f,'w') or die("En doulefkei...here is my code:<br>f ='highscores.txt';<br>file = fopen($f,'w');");
+          $score =$_POST['score']."\n";
+          fwrite($file,$username);
+          fwrite($file,$score);
           fclose($file);
         }
         if(isset($_POST['start']) || isset($_POST['next']))
@@ -103,7 +105,7 @@
               echo "<br>answer: ".$_POST['answer']." correct: ".$_POST['correct'];
               //check for correct answer
               if($_POST['answer']==$_POST['correct'])
-              {echo "hmmmm.. en mpenei dame..<br>";
+              {
                 for($i=1;$i<=5;$i++)
                   if($_POST['qNo']==$i-1)
                     $GLOBALS['is_correct'.$i]="true";
@@ -162,11 +164,11 @@
               
               <input type=\"hidden\" name=\"qNo\" value=\"".$GLOBALS['qNo']."\"/>
               <input type=\"hidden\" name=\"diff\" value=\"".$GLOBALS['diff']."\"/>
-              <input type=\"hidden\" name=\"q1\" value=\"".$GLOBALS['q1']."\"/>
-              <input type=\"hidden\" name=\"q2\" value=\"".$GLOBALS['q2']."\"/>
-              <input type=\"hidden\" name=\"q3\" value=\"".$GLOBALS['q3']."\"/>
-              <input type=\"hidden\" name=\"q4\" value=\"".$GLOBALS['q4']."\"/>
-              <input type=\"hidden\" name=\"q5\" value=\"".$GLOBALS['q5']."\"/>
+              <input type=\"hidden\" name=\"is_correct1\" value=\"".$GLOBALS['is_correct1']."\"/>
+              <input type=\"hidden\" name=\"is_correct2\" value=\"".$GLOBALS['is_correct2']."\"/>
+              <input type=\"hidden\" name=\"is_correct3\" value=\"".$GLOBALS['is_correct3']."\"/>
+              <input type=\"hidden\" name=\"is_correct4\" value=\"".$GLOBALS['is_correct4']."\"/>
+              <input type=\"hidden\" name=\"is_correct5\" value=\"".$GLOBALS['is_correct5']."\"/>
               <input type=\"hidden\" name=\"correct\" value=\"".$GLOBALS['answer']."\"/>
               <input type=\"hidden\" name=\"score\" value=\"".$GLOBALS['score']."\"/>
             </div>
@@ -211,11 +213,11 @@
               {
                 $GLOBALS['is_correct'.$_POST['qNo']]="false";
                 if($_POST['diff']=="easy")
-                  $_POST['diff']=="easy";
+                  $_POST['diff']="easy";
                 else if($_POST['diff']=="medium")
-                  $_POST['diff']=="easy";
+                  $_POST['diff']="easy";
                 else
-                  $_POST['diff']=="medium";
+                  $_POST['diff']="medium";
               }
               $GLOBALS['diff']=$_POST['diff'];
               $GLOBALS['qNo']=$_POST['qNo']+1;
@@ -237,11 +239,11 @@
                 
                 <input type=\"hidden\" name=\"qNo\" value=\"".$GLOBALS['qNo']."\"/>
                 <input type=\"hidden\" name=\"diff\" value=\"".$GLOBALS['diff']."\"/>
-                <input type=\"hidden\" name=\"q1\" value=\"".$GLOBALS['q1']."\"/>
-                <input type=\"hidden\" name=\"q2\" value=\"".$GLOBALS['q2']."\"/>
-                <input type=\"hidden\" name=\"q3\" value=\"".$GLOBALS['q3']."\"/>
-                <input type=\"hidden\" name=\"q4\" value=\"".$GLOBALS['q4']."\"/>
-                <input type=\"hidden\" name=\"q5\" value=\"".$GLOBALS['q5']."\"/>
+                <input type=\"hidden\" name=\"is_correct1\" value=\"".$GLOBALS['is_correct1']."\"/>
+                <input type=\"hidden\" name=\"is_correct2\" value=\"".$GLOBALS['is_correct2']."\"/>
+                <input type=\"hidden\" name=\"is_correct3\" value=\"".$GLOBALS['is_correct3']."\"/>
+                <input type=\"hidden\" name=\"is_correct4\" value=\"".$GLOBALS['is_correct4']."\"/>
+                <input type=\"hidden\" name=\"is_correct5\" value=\"".$GLOBALS['is_correct5']."\"/>
                 <input type=\"hidden\" name=\"correct\" value=\"".$GLOBALS['answer']."\"/>
                 <input type=\"hidden\" name=\"score\" value=\"".$GLOBALS['score']."\"/>
               </div>
@@ -280,7 +282,6 @@
                   $GLOBALS['score']=$_POST['score']+20;
                   $_POST['diff']="hard";
                 }
-                 echo $GLOBALS['score']."...line 287";
               }
               else
               {

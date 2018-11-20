@@ -20,7 +20,22 @@
     <link rel="stylesheet" type="text/css" href="Common.css">
   <div class="container">
     <h1><center>High Scores</center></h1>
-    <p><center>nickname                               score</center></p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <?php
+      $file=fopen("highscores.txt","r") or  die("no text file to show scores...");
+      while(!feof($file))
+      {
+        $score=fgets($f);
+        echo "<p>".$score."</br></p>";
+      }
+      fclose($file);
+      ?>
   </div>
     <button  onclick="topFunction()" class="Topbutton" > ^ </button>
     <script>
